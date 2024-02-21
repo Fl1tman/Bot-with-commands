@@ -34,4 +34,4 @@ async def info(ctx):
     server = ctx.guild
     await ctx.send(f'Server name: {server.name}\nTotal members: {server.member_count}')
                    
-bot.run("MTIwMDc5NDQzMzE0NzM4Mzg2OA.GCsdMQ.APAwbX-fH-vTBuJGcF1S6PJqnsGCFoJXOQzLhM")
+bot.run("")
